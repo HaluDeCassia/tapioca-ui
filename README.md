@@ -1,6 +1,8 @@
-A dynamic UI theme for Atom that (kinda) follows Google's Material Design Guidelines. Best with [Atom Material Syntax](https://github.com/atom-material/atom-material-syntax).
+# This is the TAPIOCA theme, baby! :tada:
 
-Inspired by Mattia Astorino's [SublimeText theme](https://github.com/equinusocio/material-theme).
+Oh yeah! This theme is still under development. BUT, I've done it with love for you! That's right! FOR YOU :heart:
+
+Now, atention: This project was forked from the amazing [Atom Material UI Theme](https://github.com/atom-material/atom-material-ui), then any similarity is not mere coincidence :wink:
 
 # Installation
 
