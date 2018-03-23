@@ -1,7 +1,7 @@
 {
-  "name": "atom-material-ui",
+  "name": "tapioca-ui",
   "theme": "ui",
-  "version": "2.2.0",
+  "version": "0.0.0",
   "description": "A dynamic UI theme for Atom that follows Google's Material Design Guidelines",
   "main": "./lib/main",
   "keywords": [
@@ -14,10 +14,10 @@
     "adapt to syntax",
     "material design"
   ],
-  "repository": "https://github.com/atom-material/atom-material-ui",
+  "repository": "https://github.com/HaluDeCassia/tapioca-ui",
   "license": "MIT",
   "engines": {
-    "atom": ">=1.17.0 <2.0.0"
+    "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
     "tinycolor2": "1.3.0"
