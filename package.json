@@ -2,7 +2,7 @@
   "name": "tapioca-ui",
   "theme": "ui",
   "version": "0.1.0",
-  "description": "A dynamic UI theme for Atom that follows Google's Material Design Guidelines",
+  "description": "A dynamic and sweet UI theme for Atom ☆ * (≧ ▽ ≦) * ☆ (forked from atom-material-ui with love <3)",
   "main": "./lib/main",
   "keywords": [
     "ui",
