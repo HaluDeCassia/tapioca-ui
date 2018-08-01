@@ -68,7 +68,7 @@
   "readmeFilename": "README.md",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/learn-co/learn-ide-material-ui.git"
+    "url": "https://github.com/learn-co/learn-ide-material-ui.git"
   },
   "theme": "ui",
   "version": "3.0.0"
