@@ -14,9 +14,9 @@
     ]
   ],
   "_from": "../d-118417-2014-uuoo58.qvxcg14i/package.tgz",
-  "_id": "learn-ide-material-ui@1.3.15",
+  "_id": "tapioca-ui@1.3.15",
   "_inCache": true,
-  "_location": "/learn-ide-material-ui",
+  "_location": "/tapioca-ui",
   "_phantomChildren": {},
   "_requested": {
     "raw": "/tmp/d-118417-2014-uuoo58.qvxcg14i/package.tgz",
@@ -68,7 +68,7 @@
   "readmeFilename": "README.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/learn-co/learn-ide-material-ui.git"
+    "url": "https://github.com/HaluDeCassia/tapioca-ui"
   },
   "theme": "ui",
   "version": "3.1.0"
