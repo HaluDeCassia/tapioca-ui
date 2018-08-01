@@ -14,7 +14,7 @@
     ]
   ],
   "_from": "../d-118417-2014-uuoo58.qvxcg14i/package.tgz",
-  "_id": "tapioca-ui@1.3.15",
+  "_id": "tapioca-ui@0.2.0",
   "_inCache": true,
   "_location": "/tapioca-ui",
   "_phantomChildren": {},
@@ -36,18 +36,18 @@
   "_spec": "/tmp/d-118417-2014-uuoo58.qvxcg14i/package.tgz",
   "_where": "/tmp/apm-install-dir-118417-2014-19buj67.zze744pldi",
   "bugs": {
-    "url": "https://github.com/learn-co/learn-ide-material-ui/issues"
+    "url": "https://github.com/HaluDeCassia/tapioca-ui/issues"
   },
   "dependencies": {
     "atom-space-pen-views": "2.1.1",
     "tinycolor2": "1.3.0"
   },
-  "description": "A fork of atom-material-ui with custom defaults for the Learn IDE",
+  "description": "A dynamic and sweet UI theme for Atom ☆ * (≧ ▽ ≦) * ☆ (forked from atom-material-ui with love <3)",
   "devDependencies": {},
   "engines": {
-    "atom": ">=1.4.0 <2.0.0"
+    "atom": ">=1.0.0 <2.0.0"
   },
-  "homepage": "https://github.com/learn-co/learn-ide-material-ui#readme",
+  "homepage": "https://github.com/HaluDeCassia/tapioca-ui",
   "keywords": [
     "ui",
     "theme",
@@ -62,14 +62,12 @@
   ],
   "license": "MIT",
   "main": "./lib/main",
-  "name": "learn-ide-material-ui",
+  "name": "tapioca-ui",
   "optionalDependencies": {},
-  "readme": "A fork of [atom-material-ui](https://github.com/atom-material/atom-material-ui) with custom defaults for the [Learn IDE](https://github.com/learn-co/learn-ide).\n\n# Installation\n\nUse the package manager within Atom, or:\n\n```shell\napm install learn-ide-material-ui\n```\n\n# Screenshot\n\n![](https://flatironschool-static.s3.amazonaws.com/learn-ide/photos/learn-ide-material-ui.png)\n\n# Contributing\n\nContributions should happen [upstream](https://github.com/atom-material/atom-material-ui/blob/master/CONTRIBUTING.md).\n\n# License\nAtom Material UI is licensed under MIT.\n\nView the license file [here](https://github.com/atom-material/atom-material-ui/blob/master/LICENSE.md)\n",
-  "readmeFilename": "README.md",
   "repository": {
     "type": "git",
     "url": "https://github.com/HaluDeCassia/tapioca-ui"
   },
   "theme": "ui",
-  "version": "3.1.1"
+  "version": "0.2.0"
 }
